@@ -1,4 +1,4 @@
-tok = "5607174844:AAE8cKcxxQEtKU4O8--PpE6Uvi5Z50c3gRw"
+tok = "your_token"
 
 import aiogram
 from aiogram import Bot, Dispatcher ,types ,executor
